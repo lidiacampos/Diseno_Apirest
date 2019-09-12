@@ -6,4 +6,4 @@ Los archivos deben estar organizados por tres carpetas:
 - css: css.css y bootstrap.css
 - js: js.js
 Los archivos index.php y conectar.php deben estar fuera de esas carpetas.
-El archivo sql es la base de datos.
+El archivo usuarios.sql es la base de datos.
